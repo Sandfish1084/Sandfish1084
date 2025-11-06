@@ -193,7 +193,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaly09&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Rival5555" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&theme=monokai" alt="Rival5555" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&theme=monokai" alt="hasanaly09" /></p>
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
