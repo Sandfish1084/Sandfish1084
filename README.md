@@ -1,88 +1,59 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=crveskig&style=flat-square&color=blue" alt=""/>
-</div>
-
-
-
-
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hassan;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
-
- 
-  </head>
+</head>
   <body>
     <div class="container">
-      <h1>Hi 👋, I'm Hassan</h1>
+# Hi 👋, I'm Hassan Ali
 
---
-      <div class="info">
-        <p>
-          🔭 I’m currently working on <strong>Machine learning projects</strong>
-        </p>
-        <p>🌱 I’m currently learning <strong>Pytorch & Tensorflow</strong></p>
-        <p>⚪ Ask me about <strong>Data Preprocessing, Data Visualization, DeepNeuralnetworks, NaturalLanguageProcessing</strong></p>
-        <p>📫 How to reach me: <strong>hassanali93r@gmail.com</strong></p>
-      </div>
-      
-<h3>Connect with me:</h3>
-      <div class="social-links">
-        <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/hasanali09"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/hasanali09"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/hassanali09" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="https://www.kaggle.com/hassanali09"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://fb.com/https://www.facebook.com/hassanbabar.laraib"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/hassanbabar.laraib"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://instagram.com/https://www.instagram.com/hasanaly____/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/hasanaly_09/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.leetcode.com/https://leetcode.com/u/hassanaly_09/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="https://leetcode.com/u/hassanaly_09/"
-      height="30"
-      width="40"
-  /></a>
-</p>
-  
-  
+### 🤖 AI Engineer | MLOps & Deployment 
+
+---
+
+🔭 Currently working on **End-to-End ML Deployment Pipelines with FastAPI & AWS SageMaker**
+
+🌱 Currently learning **MLOps, Kubernetes, and Advanced Deep Learning with PyTorch & TensorFlow**
+
+👯 Looking to collaborate on **AI/ML Projects, Model Deployment & Open Source MLOps Tools**
+
+🧠 Ask me about **MLOps, FastAPI, AWS SageMaker, Docker, Data Preprocessing, Deep Neural Networks & NLP**
+
+⚡ Fun fact: **I believe a great AI model is only 50% of the work — deploying it reliably is the other 50%**
+
+📫 How to reach me: **hassanali93r@gmail.com**
+
+       
+ <div>     
+<h3 align="left">Connect with me:</h3>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hasanali09" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/hassanali09" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="30" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/hassanbabar.laraib" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/hasanaly____/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/hassanaly_09/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
+ </div>
+<br><br>
+
 ---
 
 ### :hammer_and_wrench: My Major Skill :  
@@ -168,9 +139,7 @@
       <br>Rust
     </td>
     <td align="center" width="96">
-      <!-- <a href="https://drive.google.com/file/d/1s2Zhy-I_CQHDhpOhVUfmQmWLpfu6Amiz/view?usp=sharing"> -->
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <!-- </a> -->
       <br>Kubernetes
     </td>
     <td align="center" width="96">
@@ -188,15 +157,60 @@
       
 ---
 
-### :fire: My Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rival5555&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="hasanaly09" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaly09&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Rival5555" /></p>
+<h3 align="left">🔥 My Stats :</h3>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170px" src="https://github-readme-stats-mxsm.vercel.app/api?username=hasanaly09&show_icons=true&count_private=true&theme=radical" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170px" src="https://github-readme-stats-mxsm.vercel.app/api/top-langs/?username=hasanaly09&layout=compact&theme=radical&langs_count=10&hide=html,javascript,css,freemarker" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&theme=radical" alt="hasanaly09's streak" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&theme=monokai" alt="hasanaly09" /></p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
 </div>
 
-     
+
+---
+
+<h2 align="center">📊 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanaly09&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
